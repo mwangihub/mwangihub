@@ -9,4 +9,4 @@ I am always trying to grow and learn something new everyday. On my free time i l
 
 ### My focus
 As much as i like Django technology and how it intergrates well with React and React native, I am also currently learning AI 
-and willing to participate any team with similar goals.
+and willing to participate in any team with similar goals.
